@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 Hello! I'm Juan</h1>
-<p align="center">🏃‍♂️ 마라톤 러너이자 🧠 AI 엔지니어, 그리고 📊 데이터를 사랑하는 사람</p>
+<p align="center">🏃‍♂️ 달리기를 좋아하는 런린이이자 🧠 미래 AI 엔지니어, 그리고 📊 데이터를 사랑하는 사람</p>
 
 ---
 
