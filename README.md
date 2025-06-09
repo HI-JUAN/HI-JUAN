@@ -71,8 +71,7 @@ Here are some ideas to get you started:
 
 - 📫 Email: **leejuan@gmail.com**
 - 🏃 Instagram: [@2week_run](https://instagram.com/2week_run)
-- 💼 Blog (Soon): [https://leejuan.dev](https://leejuan.dev)
-
+                [@2week_an](https://instagram.com/2week_an)
 ---
 
 ### 🎯 인공지능으로 달리는 삶  
